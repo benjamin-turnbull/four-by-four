@@ -2,8 +2,7 @@
 
 #include <stdio.h>
 
-int main (void)
-{
+int main (void) {
     int one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen, fifteen, sixteen;
 
     printf("Enter the numbers from 1 to 16 in any order: ");
